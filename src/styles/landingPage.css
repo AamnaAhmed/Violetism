@@ -1,0 +1,22 @@
+
+
+
+.custom-slider {
+    background-color: #a78bfa !important; /* Set your desired background color here */
+    position: absolute !important;
+    bottom: 0;
+    height: 45px;
+    color: #EEE;
+    font-weight: bold;
+  }
+  
+  @media (min-width:1300px) {
+    .custom-slider {
+      font-size: 25px;
+    }
+  }
+  .landing-text{
+    font-family: 'Caveat', cursive;
+    color: white;
+    
+  }

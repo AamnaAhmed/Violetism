@@ -1,0 +1,11 @@
+.img::before {
+    position: absolute;
+  content: '';
+  width: 100%;
+  height: 100%;
+  border: 2px solid #a78bfa7d;
+  /* background-color: red; */
+  top: 20px;
+  left: 20px;
+  z-index: -1;
+}
